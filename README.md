@@ -11,7 +11,7 @@
 
 🌱 I’m currently learning Solidity.
 
-⛓ I write a NFT smart contract with Solidity and deployed it 7 different blockchain. You can check [the one in mainnet](https://etherscan.io/address/0x959e0667313051f573927C0cA8AE091b077da6A0#code).
+⛓ I wrote a NFT smart contract with Solidity and deployed it 7 different blockchain. You can check [the one in mainnet](https://etherscan.io/address/0x959e0667313051f573927C0cA8AE091b077da6A0#code).
 
 📫 How to reach me sahintalha0@outlook.com
 

@@ -3,7 +3,7 @@
 
 👨🏻‍🎓 I am a Computer Engineering student at Istanbul Technical University.
 
-🔭 I’m currently working on my NFT Project "GeneX Project". You can check the details from [GeneX Project Website](https://genexproject.com)
+🔭 I’m founder and head of developing working of NFT Project "GeneX Project". 
 
 💻 My C/C++ level is increasing every day, i have a lot of lessons needed C/C++ in my Department.
 
@@ -11,7 +11,7 @@
 
 🌱 I’m currently learning Solidity.
 
-⛓ I wrote a NFT smart contract with Solidity and deployed it 7 different blockchain. You can check [the one in mainnet](https://etherscan.io/address/0x959e0667313051f573927C0cA8AE091b077da6A0#code).
+⛓ I wrote a NFT smart contract with Solidity and deployed it 7 different blockchain. You can check [the one in mainnet](https://etherscan.io/address/0x959e0667313051f573927C0cA8AE091b077da6A0#code). NFTs were successfully minted and traded a volume of about 15K dollars in the secondary marketplaces. You can check all from [links here](https://linktr.ee/genexprojectnft)
 
 📫 How to reach me sahintalha0@outlook.com
 

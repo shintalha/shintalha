@@ -3,11 +3,7 @@
 
 👨🏻‍🎓 I am a Computer Engineering student at Istanbul Technical University.
 
-🏦 I am working as Junior Software Engineer part-time at ING Bank Turkey.
-
 🔭 I’m founder and head of developing working of NFT Project "GeneX Project".  NFTs were successfully minted and traded a volume of about 15K dollars in the secondary marketplaces. You can check all from [links here](https://linktr.ee/genexprojectnft) 
-
-💻 My C/C++ level is increasing every day, i have a lot of lessons needed C/C++ in my Department.
 
 👨🏻‍💻 I used Nextjs, Reactjs, Threejs, ReactThree, Javascript while web developing. 
 
